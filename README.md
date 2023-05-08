@@ -1,1 +1,2 @@
 # Instagram-Automation-using-PythonModule
+The objective of this project is to develop an Instagram automation system.The objective of Instagram automation is to use software tools and bots to automate various tasks on the platform, such as liking, commenting, following, and unfollowing users, and posting content. The purpose of this automation is to increase the reach and engagement of an Instagram account, grow the number of followers, and ultimately, increase the account's visibility, influence, and profitability.
